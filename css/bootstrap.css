@@ -1406,7 +1406,7 @@ textarea {
 }
 
 a {
-    color: #337ab7;
+    color: white;
     text-decoration: none
 }
 
@@ -2331,7 +2331,7 @@ pre code {
         width: 33.33333333%
     }
     .col-sm-3 {
-        width: 25%
+        width: 10%
     }
     .col-sm-2 {
         width: 16.66666667%
