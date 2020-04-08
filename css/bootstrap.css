@@ -1406,7 +1406,7 @@ textarea {
 }
 
 a {
-    color: white;
+    color: #333;
     text-decoration: none
 }
 
@@ -1658,7 +1658,8 @@ mark {
 }
 
 .text-center {
-    text-align: center
+    text-align: center;
+    color: #333;
 }
 
 .text-justify {
