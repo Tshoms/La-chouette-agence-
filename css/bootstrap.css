@@ -1427,8 +1427,8 @@ figure {
 }
 
 img {
-    /*vertical-align: middle;*/
-    width: 90%;
+    vertical-align: middle;
+    width: 180px;
 
 }
 
