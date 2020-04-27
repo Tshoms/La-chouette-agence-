@@ -1427,7 +1427,9 @@ figure {
 }
 
 img {
-    vertical-align: middle
+    /*vertical-align: middle;*/
+    width: 90%;
+
 }
 
 .carousel-inner>.item>a>img,
@@ -3653,6 +3655,7 @@ textarea.input-lg {
         font-size: 12px
     }
 }
+
 
 .btn {
     display: inline-block;
